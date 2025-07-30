@@ -1,16 +1,32 @@
 ## Hi there 👋
+I'm an aspiring Data Analyst skilled in Excel, SQL, Power BI, and Tableau.  
+I love turning raw data into powerful dashboards and insights.
 
-<!--
-**shreya-180203/shreya-180203** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠️ Skills
+- 📊 Power BI | Tableau
+- 📂 Advanced Excel | Power Query
+- 🧮 MySQL
 
-Here are some ideas to get you started:
+## 📈 Projects
+✈️ High Cloud Airlines – End-to-End Data Analytics Project
+Tools Used: Excel, SQL, Power BI, Tableau, Python
+Solved the same business problem across multiple tools to showcase versatility and problem-solving ability.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Description:
+Built an interactive airline operations dashboard by analyzing historical airline data to uncover insights related to passenger traffic, load factors, top carriers, routes, and flight distance distributions. The same set of KPIs and analyses were performed using different tools to demonstrate cross-platform expertise.
+
+Highlights:
+
+📊 Power BI: Interactive slicers, pie and bar charts, KPIs, filters by year/quarter/city/weekend.
+
+📋 Excel: Data cleaning with Power Query, dashboard layout with PivotTables & slicers.
+
+🧮 SQL: Wrote queries to extract grouped metrics like flight counts, load factor, and top carriers.
+
+📈 Tableau: Created visually engaging charts for top routes and load factor comparisons.
+
+
+
+## 🔗 Connect With Me
+- LinkedIn: www.linkedin.com/in/shreya-gulati-554064251
+- 📧 Email: shreyagulati183@gmail.com
